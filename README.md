@@ -13,11 +13,7 @@
 	<META NAME="LinksUpToDate" CONTENT="false">
 	<META NAME="ScaleCrop" CONTENT="false">
 	<META NAME="ShareDoc" CONTENT="false">
- 	<!--
-		@page { size: 8.5in 11in; margin: 1in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-	-->
-	</STYLE>
+ 	 
 </HEAD>
 <BODY LANG="en-US" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.11in"><FONT SIZE=5>Name of
